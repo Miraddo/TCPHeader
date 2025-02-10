@@ -1,4 +1,4 @@
-# Network Libraries With Go 
+# Network Libraries 
 
 Some libraries that help us to have better life in our codes. :)
 
